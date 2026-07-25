@@ -1,5 +1,8 @@
 package com.misoeyes
 
+/**
+ * 2026.07.25 GitHub 연결 시험
+ */
 import android.Manifest
 import android.app.Application
 import android.content.Context
@@ -16,8 +19,6 @@ import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.activity.result.contract.ActivityResultContracts.TakePicturePreview
-import androidx.compose.foundation.background
-import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
